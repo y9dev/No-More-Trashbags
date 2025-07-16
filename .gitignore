@@ -41,5 +41,5 @@ replay_*.log
 /gradle/
 /gradlew
 /gradlew.bat
-/settings.gradle
-
+/src/client/
+/.github/
