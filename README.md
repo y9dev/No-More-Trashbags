@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# No More Trashbags
 
-## Setup
+## What does do?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Makes impossible to use trashbags from the mod [Let\`s Do!] Furniture, also, "Create" deployer too can\`t use trashbags, but adding mod itself is optional
 
-## License
+_**Required original mod [Let\`s Do] Furniture**_
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+
